@@ -91,7 +91,7 @@ const SignUpForm= () =>{
                 <Button  type="submit">Sign up</Button>
             </form>
         </div>
-    )
-}
+    );
+};
 
 export default SignUpForm;
